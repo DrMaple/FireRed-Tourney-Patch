@@ -22,4 +22,4 @@ You can check if you have the right ROM by looking at the SHA-1 of you ROM on th
 The correct SHA-1 for the base ROM is **DD5945DB9B930750CB39D00C84DA8571FEEBF417**  
 
 **Website to Apply Patch:** https://www.marcrobledo.com/RomPatcher.js/  
-**Download:** [FireRed Tournament Patch](https://github.com/DrMaple/FireRed-Tourny-Patch/releases/download/FireRedTournyS9/FireRed.-.Tourny.Edition.ips)
+**Download:** [FireRed Tournament Patch](https://github.com/DrMaple/FireRed-Tourny-Patch/releases/latest)
